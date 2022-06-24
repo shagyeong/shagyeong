@@ -1,5 +1,5 @@
 # README.md
-
+<!--
 <span>
   <img src="https://user-images.githubusercontent.com/90194768/164968370-d2ad38d8-f27e-4413-9481-c455f93f7cc9.png" height="100px"/>
   <img src="https://user-images.githubusercontent.com/90194768/164968488-e9553ada-fa4f-4822-84aa-266ee27554db.png" height="100px"/>
@@ -13,3 +13,5 @@
   
 ### 숭실대학교 AI융합학부 학부생
 #### 2021. 03. 02. ~
+
+-->
