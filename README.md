@@ -17,9 +17,9 @@
 #### 2021. 03. 02. ~
 
 -->
-<img src="c.svg" width="100" height="100"/>
-<img src="cplusplus.svg" width="100" height="100"/>
-<img src="latex.svg" width="100" height="100"/>
-<img src="markdown.svg" width="100" height="100"/>
-<img src="python.svg" width="100" height="100"/>
-<img src="ubuntu.svg" width="100" height="100"/>
+<img src="c.svg" width="100" height="100">
+<img src="cplusplus.svg" width="100" height="100">
+<img src="latex.svg" width="100" height="100">
+<img src="markdown.svg" width="100" height="100">
+<img src="python.svg" width="100" height="100">
+<img src="ubuntu.svg" width="100" height="100">
