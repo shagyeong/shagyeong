@@ -17,9 +17,9 @@
 #### 2021. 03. 02. ~
 
 -->
-![c](c.svg)
-![cplusplus](cplusplus.svg)
-![latex](latex.svg)
-![markdown](markdown.svg)
-![python](pyton.svg)
-![ubuntu](ubuntu.svg)
+![c](c){:width="10px" height="10px"}
+![cplusplus](cplusplus){:width="10px" height="10px"}
+![latex](latex){:width="10px" height="10px"}
+![markdown](markdown){:width="10px" height="10px"}
+![python](python){:width="10px" height="10px"}
+![ubuntu](ubuntu){:width="10px" height="10px"}
