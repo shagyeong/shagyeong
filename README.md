@@ -17,9 +17,9 @@
 #### 2021. 03. 02. ~
 
 -->
-![c](c){:width="10px" height="10px"}
-![cplusplus](cplusplus){:width="10px" height="10px"}
-![latex](latex){:width="10px" height="10px"}
-![markdown](markdown){:width="10px" height="10px"}
-![python](python){:width="10px" height="10px"}
-![ubuntu](ubuntu){:width="10px" height="10px"}
+![c](c)![title](/img/myImg.png){: width="100" height="100"}
+![cplusplus](cplusplus)![title](/img/myImg.png){: width="100" height="100"}
+![latex](latex)![title](/img/myImg.png){: width="100" height="100"}
+![markdown](markdown)![title](/img/myImg.png){: width="100" height="100"}
+![python](python)![title](/img/myImg.png){: width="100" height="100"}
+![ubuntu](ubuntu)![title](/img/myImg.png){: width="100" height="100"}
