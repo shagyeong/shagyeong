@@ -17,3 +17,9 @@
 #### 2021. 03. 02. ~
 
 -->
+![c](c.svg)
+![cplusplus](cplusplus.svg)
+![latex](latex.svg)
+![markdown](markdown.svg)
+![python](pyton.svg)
+![ubuntu](ubuntu.svg)
