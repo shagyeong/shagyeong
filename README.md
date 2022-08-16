@@ -6,7 +6,7 @@
   <img src="markdown.svg" width="100" height="100">
   <img src="python.svg" width="100" height="100">
 <span/>
-
+<br/>
 <span>
   <img src="github.svg" width="100" height="100">
   <img src="notion.svg" width="100" height="100">
