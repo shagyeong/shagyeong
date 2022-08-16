@@ -1,4 +1,3 @@
-<img src="cplusplus.svg" width="100" height="100">
 <span>
   <img src="c.svg" width="100" height="100">
   <img src="cplusplus.svg" width="100" height="100">
