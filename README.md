@@ -1,16 +1,16 @@
 <span>
-  <img src="c.svg" width="100" height="100">
-  <img src="cplusplus.svg" width="100" height="100">
-  <img src="gnubash.svg" width="100" height="100">
-  <img src="latex.svg" width="100" height="100">
-  <img src="markdown.svg" width="100" height="100">
-  <img src="python.svg" width="100" height="100">
+  <img src="c.svg" width="50" height="50">
+  <img src="cplusplus.svg" width="50" height="50">
+  <img src="gnubash.svg" width="50" height="50">
+  <img src="latex.svg" width="50" height="50">
+  <img src="markdown.svg" width="50" height="50">
+  <img src="python.svg" width="50" height="50">
 <span/>
 <br/>
 <span>
-  <img src="github.svg" width="100" height="100">
-  <img src="notion.svg" width="100" height="100">
-  <img src="slack.svg" width="100" height="100">
-  <img src="ubuntu.svg" width="100" height="100">
-  <img src="visualstudiocode.svg" width="100" height="100">
+  <img src="github.svg" width="50" height="50">
+  <img src="notion.svg" width="50" height="50">
+  <img src="slack.svg" width="50" height="50">
+  <img src="ubuntu.svg" width="50" height="50">
+  <img src="visualstudiocode.svg" width="50" height="50">
 <span/>
