@@ -17,4 +17,4 @@
 <span/>
 -->
 
-<img src="shagyeong.png" width="100" height="100">
+<img src="shagyeong.PNG" width="100" height="100">
