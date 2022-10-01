@@ -1,3 +1,4 @@
+<!--
 <span>
   <img src="c.svg" width="50" height="50">
   <img src="cplusplus.svg" width="50" height="50">
@@ -14,3 +15,6 @@
   <img src="ubuntu.svg" width="50" height="50">
   <img src="visualstudiocode.svg" width="50" height="50">
 <span/>
+-->
+
+<img src="shagyeong.png" width="100" height="100">
