@@ -17,4 +17,9 @@
 <span/>
 -->
 
-<img src="shagyeong.PNG" width="100" height="100">
+
+<img src="shagyeong.PNG"  height="75">
+<img src="shagyeongs.PNG" height="75">
+<img src="TTTT.PNG"       height="75">
+<img src="TTDT.PNG"       height="75">
+<img src="TPDT.PNG"       height="75">
