@@ -18,8 +18,8 @@
 -->
 
 
-<img src="shagyeong.PNG"  height="75">
+<img src="shagyeong.PNG"  width="75" height="75">
 <img src="shagyeongs.PNG" height="75">
-<img src="TTTT.PNG"       height="75">
-<img src="TTDT.PNG"       height="75">
-<img src="TPDT.PNG"       height="75">
+<img src="TTTT.PNG"       width="75" height="75">
+<img src="TTDT.PNG"       width="75" height="75">
+<img src="TPDT.PNG"       width="75" height="75">
